@@ -23,12 +23,19 @@ Todo el desarrollo se realizó sobre Google colabs por lo cual en el notebook se
 
 ## **Algoritmo Genetico**
 
-Objectivo PG: Encontrar la mejor combinación de características (Variables)  que mejor  accuracy y sensibilidad generen. 
+Objectivo PG: Encontrar la mejor combinación de características (Variables)  que mejor  accuracy y sensibilidad generen.
+
 Gen: [0,1] → Significado: 0 -> Descartar Variable  1-> Incluir Variable.
+
 Cantidad Genes: 32
+
 Cromosoma: Array de 32  características.
+
 Cromosoma Inicio:[00000000000000000000000000000001]
+
 Función Fitness: Mejor Accuracy y Sensibilidad (Para evaluar el modelo se tomó la medida accuracy). 
+
 Librería: PyGad [pygad.GA]
+
 Algoritmo Genético:[pygad.gann.GANN] → Algoritmo Red Neuronal
 
