@@ -1,4 +1,4 @@
-# sistemas-inteligentes
+# Sistemas-Inteligentes
 # Pontifica Universidad Javeriana
 
 # Grupo:
@@ -38,4 +38,7 @@ Función Fitness: Mejor Accuracy y Sensibilidad (Para evaluar el modelo se tomó
 Librería: PyGad [pygad.GA]
 
 Algoritmo Genético:[pygad.gann.GANN] → Algoritmo Red Neuronal
+
+## **Algoritmo Fuzzy**
+
 
