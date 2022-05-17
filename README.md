@@ -26,7 +26,8 @@ Todo el desarrollo se realizó sobre Google colabs por lo cual en el notebook se
 En esta implementacion usamos scikit-learn neuronal network  para entrenar nuestro modelo de prediccion, para mas informacion ver la implementacion en: 
 
 ````
-/Proyecto_Final_Sistemas_Inteligentes.ipynb
+
+[/Proyecto_Final_Sistemas_Inteligentes.ipynb](https://github.com/leonardo-91/sistemas-inteligentes/blob/6e5ac88ee4075be58d11a09742f0772994ddffe5/Proyecto_Final_Sistemas_Inteligentes.ipynb)
 ````
 
 ### 2. **Algoritmo Genetico**
@@ -50,7 +51,7 @@ Algoritmo Genético:[pygad.gann.GANN] → Algoritmo Red Neuronal
 Mas informacion ver la implementacion en: 
 
 ````
-/Proyecto_Final_Sistemas_Inteligentes_GA.ipynb
+[/Proyecto_Final_Sistemas_Inteligentes_GA.ipynb](https://github.com/leonardo-91/sistemas-inteligentes/blob/6e5ac88ee4075be58d11a09742f0772994ddffe5/Proyecto_Final_Sistemas_Inteligentes_GA.ipynb)
 ````
 
 ### **Algoritmo Fuzzy**
@@ -71,7 +72,12 @@ Variable Respuesta
  para mas informacion ver la implementacion en: 
 
 ````
-/Proyecto_Final_Sistemas_Inteligentes_Fuzzy_(E7).ipynb
+[/Proyecto_Final_Sistemas_Inteligentes_Fuzzy_(E7).ipynb](https://github.com/leonardo-91/sistemas-inteligentes/blob/6e5ac88ee4075be58d11a09742f0772994ddffe5/Proyecto_Final_Sistemas_Inteligentes_Fuzzy_(E7).ipynb)
+````
+*  Nota: En este caso la documentacion y el protocolo experimental se puede encontrar en la carpeta:
+
+````
+/Protocolo_Experimental_Fuzzy/
 ````
 
 ### **Random Forest (Aprendizaje Maquina)**
