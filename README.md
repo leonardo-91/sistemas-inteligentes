@@ -51,7 +51,7 @@ Mas informacion ver la implementacion en:
 * [/Proyecto_Final_Sistemas_Inteligentes_GA.ipynb](https://github.com/leonardo-91/sistemas-inteligentes/blob/6e5ac88ee4075be58d11a09742f0772994ddffe5/Proyecto_Final_Sistemas_Inteligentes_GA.ipynb)
 
 
-### **Algoritmo Fuzzy**
+### 3. **Logica  Difusa**
 
 En esta implementacion usamos la libreria scikit-fuzzy  para entrenar nuestro modelo de logica difusa, nuestras variables fuzzificadas  son: 
 
@@ -77,6 +77,6 @@ Variable Respuesta
 /Protocolo_Experimental_Fuzzy/
 ````
 
-### **Random Forest (Aprendizaje Maquina)**
+### 4. **Random Forest (Aprendizaje Maquina)**
 
 TBD
