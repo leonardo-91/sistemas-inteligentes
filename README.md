@@ -79,4 +79,6 @@ Variable Respuesta
 
 ### 4. **Random Forest (Aprendizaje Maquina)**
 
-TBD
+En esta implementacion usamos scikit-learn como libreria para usar Random Forest como modelo de prediccion, para mas informacion ver la implementacion en: 
+
+* [/Proyecto_Final_Sistemas_Inteligentes_Random_Forest.ipynb](https://github.com/leonardo-91/sistemas-inteligentes/blob/10756e22d99b596e1a54e5990f52a89edc42ca96/Proyecto_Final_Sistemas_Inteligentes_Random_Forest.ipynb)
